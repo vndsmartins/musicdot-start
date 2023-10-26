@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://pbs.twimg.com/profile_images/1289617534162030594/an7h89Ib_400x400.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .container img{
+        border: 2px solid #000;
+        border-radius: 50px;  
+    }
